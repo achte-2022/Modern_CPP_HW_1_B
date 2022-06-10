@@ -1,0 +1,14 @@
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/edit_cache.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/rebuild_cache.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/list_install_components.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/install.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/install/local.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/CMakeFiles/install/strip.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/ipb_arithmetic.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/test_ipb_arithmetic.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/edit_cache.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/rebuild_cache.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/list_install_components.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/install.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/install/local.dir
+/home/ta/Desktop/homework_1/task_2/build_cmake/src/CMakeFiles/install/strip.dir
